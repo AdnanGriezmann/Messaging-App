@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383840813287",
+    "project_id": "messaging-app-79b0f",
+    "storage_bucket": "messaging-app-79b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383840813287:android:fe8a346ec73568cb842242",
+        "android_client_info": {
+          "package_name": "com.example.chatting_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383840813287-8b5nmu1fjvdve3gf9cpbn9majd77gf02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA3MfMhuk22n9byrXr0vTxFj3kxfN1RVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383840813287-8b5nmu1fjvdve3gf9cpbn9majd77gf02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
